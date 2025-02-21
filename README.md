@@ -125,12 +125,12 @@ plt.show()
 4. **Impact of Negative Sentiment:** Higher percentages of negative reviews **directly lower average scores** (-0.288 correlation), impacting brand reputation.
 5. **Peak Negative & Positive Sentiment Month:** **September 2012** had the highest number of both positive and negative reviews, possibly due to external market influences.
 
-## **📁 Deliverables**
+## **Deliverables**
 - `amazon_reviews.ipynb` (Jupyter Notebook with full analysis)
 - `reviews.db` (SQLite database storing structured data)
 - `README.md` (Project summary)
 
-## **🚀 Next Steps**
+## **Next Steps**
 - **Deeper NLP Analysis:** Extract specific **customer complaints** using topic modeling.
 - **Product-Specific Trends:** Analyze sentiment changes **per product**.
 - **Predictive Analysis:** Use ML models to predict **future sentiment trends**.
