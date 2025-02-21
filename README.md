@@ -43,6 +43,7 @@ plt.show()
 #### **Insights:**
 - Most reviews are **positive**, suggesting general customer satisfaction.
 - Negative reviews are significantly fewer but crucial for improvement insights.
+![Figure_1](https://github.com/user-attachments/assets/0f872397-9299-4004-938d-6f7dd2776dc3)
 
 ---
 
@@ -67,6 +68,7 @@ plt.show()
 #### **Insights:**
 - Identifies **periods of declining or improving customer satisfaction**.
 - Correlate dips with potential product changes, seasonal trends, or external factors.
+![Figure_2](https://github.com/user-attachments/assets/078b3858-c7ce-44fd-a089-baa8c511d3ce)
 
 ---
 
@@ -92,6 +94,7 @@ plt.show()
 #### **Insights:**
 - Spikes in **negative reviews** may indicate product defects or controversies.
 - Observing positive trends can highlight successful product improvements or marketing strategies.
+![Figure_3](https://github.com/user-attachments/assets/4309b09e-be0b-4015-94e6-0aea7d7bd07f)
 
 ---
 
@@ -115,6 +118,7 @@ plt.show()
 #### **Insights:**
 - A high percentage of negative reviews **correlates with a drop in average score**.
 - Brands can use this insight to proactively **address customer concerns**.
+![Figure_4](https://github.com/user-attachments/assets/20f13d9e-6be8-4c3d-8513-b76f2b83d42f)
 
 ---
 
