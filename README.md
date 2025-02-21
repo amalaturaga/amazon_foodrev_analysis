@@ -109,8 +109,8 @@ plt.show()
 4. **Impact of Negative Sentiment:** Higher percentages of negative reviews **directly lower average scores**, impacting brand reputation.
 
 ## **Deliverables**
-- `customer_reviews_analysis.ipynb` (Jupyter Notebook with full analysis)
-- `reviews.db` (SQLite database storing structured data)
+- `amazon_reviews.ipynb` (Jupyter Notebook with full analysis)
+- `reviews.db` (SQLite database storing structured data - too large)
 - `README.md` (Project summary)
 
 ## **Next Steps**
