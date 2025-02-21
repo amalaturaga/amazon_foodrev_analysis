@@ -7,7 +7,7 @@ This project analyzes customer review data to identify sentiment trends over tim
 How do customer sentiments change over time, and how does sentiment distribution impact product ratings?
 
 ## **Dataset Chosen**
-We used a publicly available customer reviews dataset from Kaggle:
+I used a publicly available customer reviews dataset from Kaggle:
 - [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
 ## **Data Cleaning & Preprocessing**
